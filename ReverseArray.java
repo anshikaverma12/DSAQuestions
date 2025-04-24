@@ -19,7 +19,6 @@ public class ReverseArray {
             int temp=arr[index1];
             arr[ index1]=arr[index2];
             arr[index2]=temp;
-
         }
     }
 
