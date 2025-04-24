@@ -41,5 +41,7 @@ Help clean up code or improve explanations.
 
 ## Please keep in mind:
 ~Keep the code neat and well-commented.
+
 ~Add a small explanation if the problem is non-trivial.
+
 ~Stick to Java for consistency.
