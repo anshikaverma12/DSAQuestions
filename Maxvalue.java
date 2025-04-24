@@ -11,7 +11,6 @@ public class Maxvalue{
                 greatest=arr[i];
             }
         }
-
         return greatest;
     }
 }
