@@ -34,7 +34,9 @@ If you're a fellow student or just someone passionate about DSA, contributions a
 ## Here’s how you can help:
 
 Add new solutions or improve existing ones.
+
 Suggest better approaches for optimization.
+
 Help clean up code or improve explanations.
 
 ### 👉 Just fork the repo, make your changes, and create a pull request. Let's learn and grow together! 💪
