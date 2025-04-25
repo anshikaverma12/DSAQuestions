@@ -14,7 +14,6 @@ public class LinearSearch {
             arr[i] = input.nextInt();
         }
         //Display
-
         System.out.print("You entered:");
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i]+" ");
@@ -34,6 +33,7 @@ public class LinearSearch {
                return i;
            }
        }
+        System.out.println("Element not found in array");
         return-1;
     }
 }
