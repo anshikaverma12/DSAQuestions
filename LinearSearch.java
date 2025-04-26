@@ -35,5 +35,6 @@ public class LinearSearch {
        }
         System.out.println("Element not found in array");
         return-1;
+
     }
 }
