@@ -5,7 +5,6 @@ public class ReverseArray {
         reverseArr(arr);
         System.out.println(Arrays.toString(arr));
     }
-
     static void reverseArr(int[]arr){
         int start=0;
         int end=arr.length-1;
